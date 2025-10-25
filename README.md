@@ -28,7 +28,7 @@
 ### ⚒️ **Languages, Frameworks & Tools**
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,cpp,javascript,react,html,css,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,git,github,vscode,shopify" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,git,github,vscode,vercel,shopify" />
 </div>
 
 ---
@@ -40,8 +40,5 @@
 </div>
 
 ---
-
-### 🐍 **My Contributions**
-![GitHub Snake Animation](dist/github-snake.svg)
 
 ---
