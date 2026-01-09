@@ -28,12 +28,12 @@
 ### ⚒️ **Languages, Frameworks & Tools**
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,cpp,javascript,react,html,css,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,git,github,vscode,vercel,shopify" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,git,github,vscode,vercel,wordpress" />
 </div>
 
 ---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rippperr&" alt="Rippperr" /></p>
+
 
 
 
